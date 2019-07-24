@@ -6,11 +6,11 @@ https://en.wikipedia.org/wiki/One-time_pad
 
 Plaintext is the term for the information that you wish to encrypt and protect. It is human readable.
 
-Ciphertext is the term for the plaintext after it has been encrypted by your programs. Ciphertext is not human-readable, and in fact cannot be cracked, if the OTP system is used correctly.
+Ciphertext is the term for the plaintext after it has been encrypted by the programs. Ciphertext is not human-readable, and in fact cannot be cracked, if the OTP system is used correctly.
 
 A Key is the random sequence of characters that will be used to convert Plaintext to Ciphertext, and back again. It must not be re-used, or else the encryption is in danger of being broken.
 
-The following excerpt from this Wikipedia article was captured on 2/21/2015:
+The following excerpt from the above Wikipedia article was captured on 2/21/2015:
 
 “Suppose Alice wishes to send the message "HELLO" to Bob. Assume two pads of paper containing identical random sequences of letters were somehow previously produced and securely issued to both. Alice chooses the appropriate unused page from the pad. The way to do this is normally arranged for in advance, as for instance 'use the 12th sheet on 1 May', or 'use the next available sheet for the next message'.
 
